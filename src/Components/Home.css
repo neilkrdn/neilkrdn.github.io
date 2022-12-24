@@ -1,0 +1,54 @@
+.Home
+{
+    width: 100%;
+    margin: auto;
+    margin-top: 7.5rem;
+}
+
+.Home .content-divided
+{
+    width: 90%;
+    display: inline-block;
+    margin: auto;
+}
+
+.Home .text-box
+{
+    padding-top: 3.75rem;
+    width: 55%;
+    font-size: 2.5rem;
+    float: left;
+    text-align: center;
+}
+
+.Home .image-hero
+{
+    width: 35%;
+    margin: auto;
+    float: right;
+    transition: .2s;
+}
+.Home .image-hero:hover
+{
+    transform: scale(1.1)
+}
+
+.Home .gradient-box 
+{
+    width: 23.75rem;
+    height: 26.25rem;
+    background: linear-gradient(319.42deg, #0D4440 0%, #9FD2B7 51.44%, #B8EBCC 102.14%);
+    box-shadow: 5px 4px 10px rgba(0, 0, 0, 0.25);
+}
+.Home .image-box 
+{
+    margin-top: -27.8125rem;
+    margin-left: -1.5625rem;
+    width: 23.75rem;
+    height: 26.25rem;
+    background-image: url('../Assets/home_image_uncropped_edit.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 4px 10px rgba(0, 0, 0, 0.25);
+}
