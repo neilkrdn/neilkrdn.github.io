@@ -1,0 +1,20 @@
+.Projects
+{
+    margin-top: 9rem;
+    font-size: 3rem;
+}
+
+.Projects .recentreads
+{
+    background-image: url('../Assets/bubbles.png');
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.Projects .bruinsource
+{
+    background-image: url('../Assets/bubbles_2.png');
+    background-size: contain;
+    background-position: left;
+    background-repeat: no-repeat;
+}

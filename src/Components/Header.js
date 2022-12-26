@@ -11,14 +11,17 @@ const Header = () => {
             <Box >
                 <AppBar elevation={0} position="sticky" sx={{bgcolor: '#fcfffc', color: '#121212'}}>
                     <Toolbar>
-                        <Typography variant='h3' component='h3'>
+                        <Typography className="btn" variant='h3' component='h3'>
                             home
                         </Typography>
-                        <Typography variant='h3' component='h3'>
+                        <Typography className="btn" variant='h3' component='h3'>
                             projects
                         </Typography>
-                        <Typography variant='h3' component='h3'>
+                        <Typography className="btn" variant='h3' component='h3'>
                             contact
+                        </Typography>
+                        <Typography className="btn" variant='h3' component='h3' sx={{ml: 'auto'}}>
+                            neil kardan
                         </Typography>
                     </Toolbar>
                 </AppBar>

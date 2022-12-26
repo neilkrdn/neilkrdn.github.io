@@ -1,0 +1,60 @@
+.BruinSource
+{
+    width: 100%;
+    margin: auto;
+    margin-top: 1.5rem;
+}
+.BruinSource .content-divided
+{
+    width: 80%;
+    display: inline-block;
+    margin: auto;
+}
+
+.BruinSource .project-icon
+{
+    width: 40%;
+    margin: auto;
+    float: right;
+    transition: .2s;
+}
+
+.BruinSource .project-icon:hover
+{
+    transform: scale(1.1);
+}
+
+.BruinSource .project-description
+{
+    padding-right: 3.5rem;
+    width: 40%;
+    height: 18.75rem;
+    float: left;
+    text-align: left;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.BruinSource .bruinsource-icon
+{
+    height: 18.75rem;
+    background-image: url('../../Assets/ProjectIcons/bruinsource_logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: drop-shadow(0px 4px 2px #808080)
+}
+
+.BruinSource .project-title
+{
+    font-size: 2rem;
+    font-weight:700;
+}
+
+.BruinSource .project-link
+{
+    font-weight: 700;
+}

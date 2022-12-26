@@ -1,0 +1,25 @@
+.footy
+{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: 5rem;
+}
+.footy .footIcon
+{
+  max-width: 3rem;
+  max-height: 4rem;
+  padding: .3125rem;
+  filter: drop-shadow(0px 1px 1px #AFAFAF);
+  margin-bottom: 1.5rem;
+}
+
+img
+{
+  transition: transform .2s;
+}
+
+.footy .footIcon:hover
+{
+  transform: scale(1.25);
+}

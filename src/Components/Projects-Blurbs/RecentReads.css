@@ -1,0 +1,58 @@
+.RecentReads
+{
+    width: 100%;
+    margin: auto;
+}
+.RecentReads .content-divided
+{
+    width: 80%;
+    display: inline-block;
+    margin: auto;
+}
+
+.RecentReads .project-icon
+{
+    width: 40%;
+    margin: auto;
+    float: left;
+    transition: .2s;
+}
+
+.RecentReads .project-icon:hover
+{
+    transform: scale(1.1);
+}
+
+.RecentReads .project-description
+{
+    padding-right: 3.5rem;
+    width: 40%;
+    height: 18.75rem;
+    float: right;
+    text-align: right;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.RecentReads .recent-reads-icon
+{
+    height: 18.75rem;
+    background-image: url('../../Assets/recentreads-stacked.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.RecentReads .project-title
+{
+    font-size: 2rem;
+    font-weight:700;
+}
+
+.RecentReads .project-link
+{
+    font-weight: 700;
+}
