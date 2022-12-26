@@ -4,6 +4,7 @@ import './About.css'
 const About = () => {
     return (
         <div className="About">
+            <h4>about me</h4>
             <div className="content-divided">
                 <div className="image-hero">
                     <div className="gradient-box"/>
