@@ -1,0 +1,14 @@
+.Landing {
+    text-align: center;
+    background-color: #fcfffc;
+    color: #000000;
+    margin: 0;
+  }
+  
+  .Landing-link {
+    color: #61dafb;
+  }
+  
+html {
+    scroll-behavior: smooth;
+}

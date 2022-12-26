@@ -56,5 +56,18 @@
 
 .BruinSource .project-link
 {
+    font-size: 1.5rem;
     font-weight: 700;
+    transition: .2s
+}
+
+.BruinSource .project-link:hover
+{
+    font-weight: 700;
+    transform: scale(1.1)
+}
+
+.BruinSource .project-link .a
+{
+    font-size: 1.5rem;
 }

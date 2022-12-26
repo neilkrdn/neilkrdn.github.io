@@ -12,13 +12,13 @@ const Header = () => {
                 <AppBar elevation={0} position="sticky" sx={{bgcolor: '#fcfffc', color: '#121212'}}>
                     <Toolbar>
                         <Typography className="btn" variant='h3' component='h3'>
-                            home
+                            <a href="/">home</a>
                         </Typography>
                         <Typography className="btn" variant='h3' component='h3'>
-                            projects
+                            <a href="/#projects">projects</a>
                         </Typography>
                         <Typography className="btn" variant='h3' component='h3'>
-                            contact
+                            <a href="/#about">about</a>
                         </Typography>
                         <Typography className="btn" variant='h3' component='h3' sx={{ml: 'auto'}}>
                             neil kardan

@@ -12,11 +12,11 @@ const BruinSource = () => {
                        <br/> an online college open-source task board, where students can contribute to projects across different campuses
                     </div>
                     <div className="project-link">
-                        <br/> view source
+                        <br/><a href="https://github.com/neilkrdn/BruinSource">view source</a>
                     </div>
                 </div>
                 <div className="project-icon">
-                    <div className="bruinsource-icon"/>
+                    <a href="https://github.com/neilkrdn/BruinSource"><div className="bruinsource-icon"/></a>
                 </div>
             </div>
         </div>

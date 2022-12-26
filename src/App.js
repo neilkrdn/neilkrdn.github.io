@@ -1,20 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from './Components/Header.js';
-import Home from './Components/Home.js';
-import Projects from './Components/Projects.js';
-import About from './Components/About.js';
-import Footer from './Components/Footer.js';
+import Landing from './Composed/Landing.js';
+import { Routes, Route, Outlet, Link } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <Header/>
-      <Home/>
-      <Projects/>
-      <About/>
-      <Footer/>
-    </div>
+    <Routes>
+      <Route path="" element={<Landing/>}/>
+      <Route path="/recentreads" element={<Header/>}/>
+    </Routes>
   );
 }
 

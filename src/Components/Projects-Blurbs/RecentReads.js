@@ -1,11 +1,12 @@
 import './RecentReads.css';
+import {Link} from "react-router-dom";
 
 const RecentReads = () => {
     return (
         <div className="RecentReads">
             <div className="content-divided">
                 <div className="project-icon">
-                    <div className="recent-reads-icon"/>
+                    <Link to="recentreads"><div className="recent-reads-icon"/></Link>
                 </div>
                 <div className="project-description">
                     <div className="project-title">
