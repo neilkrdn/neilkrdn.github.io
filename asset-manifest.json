@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.305e3292.css",
-    "main.js": "/static/js/main.e4babe81.js",
+    "main.css": "/static/css/main.e5939502.css",
+    "main.js": "/static/js/main.30e34252.js",
     "static/js/787.2b03e4c1.chunk.js": "/static/js/787.2b03e4c1.chunk.js",
     "static/media/home_image_uncropped_edit.jpg": "/static/media/home_image_uncropped_edit.6bdffb9c013c6e8324bf.jpg",
     "static/media/about_image_uncropped.JPG": "/static/media/about_image_uncropped.1ed10f9191dcb30ce6c8.JPG",
     "static/media/recentreads-stacked.png": "/static/media/recentreads-stacked.a2dbcc8e3ce35feb53dc.png",
+    "static/media/recentreads-wide.png": "/static/media/recentreads-wide.0c149d5dd04b1ef0a123.png",
     "static/media/bruinsource_logo.png": "/static/media/bruinsource_logo.757f6462c897609ca162.png",
     "static/media/bubbles_2.png": "/static/media/bubbles_2.20682d09cf07b8799e45.png",
     "static/media/bubbles.png": "/static/media/bubbles.40590b2fa6020cb2549b.png",
     "static/media/github.png": "/static/media/github.268cb8cf859d662d6794.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.305e3292.css.map": "/static/css/main.305e3292.css.map",
-    "main.e4babe81.js.map": "/static/js/main.e4babe81.js.map",
+    "main.e5939502.css.map": "/static/css/main.e5939502.css.map",
+    "main.30e34252.js.map": "/static/js/main.30e34252.js.map",
     "787.2b03e4c1.chunk.js.map": "/static/js/787.2b03e4c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.305e3292.css",
-    "static/js/main.e4babe81.js"
+    "static/css/main.e5939502.css",
+    "static/js/main.30e34252.js"
   ]
 }
