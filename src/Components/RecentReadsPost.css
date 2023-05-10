@@ -1,0 +1,37 @@
+.RecentReadsPost .row:after
+{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.RecentReadsPost .column1
+{
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+.RecentReadsPost .column2
+{
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+
+.RecentReadsPost .Signature
+{
+    text-align: right;
+    font-size: 1.1rem;
+}
+
+.RecentReadsPost .Title
+{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.RecentReadsPost .Subtitle
+{
+    font-size: 1.25rem;
+    font-weight: bold;
+}
