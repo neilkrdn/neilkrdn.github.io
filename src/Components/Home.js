@@ -7,8 +7,8 @@ const Home = () => {
             <div className="content-divided">
                 <div className="text-box">
                     <h3> Hi, I'm Neil Kardan <br/>
-                    I'm a 4th year Computer Science <br/>
-                    student at UCLA.</h3>
+                    I'm a Software Development  <br/>
+                    Engineer at Amazon, and a UCLA alumnus.</h3>
                 </div>
                 <div className="image-hero">
                     <div className="gradient-box"/>
